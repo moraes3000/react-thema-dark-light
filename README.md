@@ -19,7 +19,7 @@ Alteração de thema claro e escuro
 $git clone git@github.com:moraes3000/react-thema-dark-light.git
 
 # Entrar no respositório
-cd dark-light
+cd react-thema-dark-light
 
 # Instalar as dependências
 $yarn install
