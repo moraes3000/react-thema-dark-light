@@ -1,4 +1,4 @@
-# Aleração de Thema Dark e Light
+# Alteração de Thema Dark e Light
 
 <img src="public/dark-light.png">
 
