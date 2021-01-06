@@ -1,15 +1,16 @@
 # Alteração de Thema Dark e Light
 
-<img src="public/dark-light.png">
+<img src="public/menu-responsivo-git.gif">
 
 ## Sobre
-Alteração de thema claro e escuro
+Alteração de thema claro e escuro e menu responsivo
 
 ---
 
 ## Tecnologia
 - styled-components
 - react-switch
+- react-icons
 ---
 
 ## Como baixar o projeto
@@ -19,7 +20,7 @@ Alteração de thema claro e escuro
 $git clone git@github.com:moraes3000/react-thema-dark-light.git
 
 # Entrar no respositório
-cd dark-light
+cd react-thema-dark-light
 
 # Instalar as dependências
 $yarn install

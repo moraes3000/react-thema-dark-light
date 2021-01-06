@@ -3,9 +3,10 @@ export default {
 
     colors: {
         primary: '#333',
-        secundary: '#d63af9',
+        secundary: '#9e9b9b',
 
         background: '#222',
         text: '#fff',
+        hover: '#9e9b9b',
     }
 }
