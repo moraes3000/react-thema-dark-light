@@ -3,7 +3,7 @@
 <img src="public/menu-responsivo-git.gif">
 
 ## Sobre
-Alteração de thema claro e escuro e menu responsivo
+Alteração de thema claro e escuro e menu responsivo  
 
 ---
 
